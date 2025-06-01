@@ -81,7 +81,6 @@ def find_mas(x, y):
                 total_mas += 1
             else:
                 a_locations.append(a_location)
-            
     return
    
 for x in range(max_x + 1):
